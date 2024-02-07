@@ -1,1 +1,3 @@
-# random_cyber_security_resources
+# Random Cyber security resources.
+
+A student project with screenshots for one of my presentations.
